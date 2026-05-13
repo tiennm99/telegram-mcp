@@ -5,7 +5,7 @@ Cloudflare Worker exposing a Telegram bot as a Model Context Protocol server.
 ## Quick start
 
 ```bash
-npm install
+pnpm install
 # Set secrets:
 wrangler secret put TELEGRAM_TOKEN
 wrangler secret put TELEGRAM_CHAT_ID
