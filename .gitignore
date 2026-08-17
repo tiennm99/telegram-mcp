@@ -1,0 +1,13 @@
+# Dependencies (package-lock.json stays tracked)
+node_modules/
+
+# Wrangler
+.wrangler/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env
+.dev.vars
+.env
